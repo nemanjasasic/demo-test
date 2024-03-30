@@ -14,3 +14,5 @@ aded new text to this file as test to lern branching
 # aded new text
 new text added to this text so i can learn git on mac os
 hello please add this text
+# new text on branch
+added this new text to study the branch mode on github
