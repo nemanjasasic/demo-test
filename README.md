@@ -16,3 +16,6 @@ new text added to this text so i can learn git on mac os
 hello please add this text
 # new text on branch
 added this new text to study the branch mode on github
+# new line of text
+new line of text yet aggain this time i hope for final time!!
+ss
